@@ -7,9 +7,11 @@
 - 💻 Learning Git & GitHub
 - 📚 Exploring Data Structures & Algorithms
 - 🤖 Passionate about Artificial Intelligence & Machine Learning
-
+- 🌱 Currently building Python projects every day
+- 📈 Documenting my learning journey on GitHub
 ---
-
+- 📍 Pune, Maharashtra, India
+- 
 ## 🚀 Current Learning Roadmap
 
 - ✅ Python Basics
@@ -44,10 +46,17 @@
 
 ---
 
-## 📂 My Repositories
+## 🌐 Connect with Me
 
-- 🚀 Python-Bootcamp
+- 💼 LinkedIn: https://www.linkedin.com/in/mudassir-shaikh-72360a420
 
+- 💻 GitHub: https://github.com/mudassir786-master
+
+## 🚀 Featured Project
+
+### Python Bootcamp
+A collection of Python programs, mini projects, and my learning journey from beginner to advanced.
+
+🔗 https://github.com/mudassir786-master/Python-Bootcamp
 ---
-
 ⭐ Thank you for visiting my profile!
