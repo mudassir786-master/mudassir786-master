@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Mudassir Shaikh
 
-<!--
-**mudassir786-master/mudassir786-master** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
 
-Here are some ideas to get you started:
+- 🎓 AI & Machine Learning Student
+- 🐍 Currently learning Python
+- 💻 Learning Git & GitHub
+- 📚 Exploring Data Structures & Algorithms
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Learning Roadmap
+
+- ✅ Python Basics
+- ✅ Git & GitHub
+- 🔄 Functions
+- ⏳ Object-Oriented Programming
+- ⏳ Data Structures & Algorithms
+- ⏳ Machine Learning
+- ⏳ Deep Learning
+- ⏳ Generative AI
+
+---
+
+## 🛠️ Technologies
+
+- Python
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🎯 Goals for 2026
+
+- Build 30+ Python Projects
+- Master DSA
+- Learn Machine Learning
+- Learn Deep Learning
+- Build AI Projects
+- Earn a Great Internship
+- Become an AI & ML Engineer
+
+---
+
+## 📂 My Repositories
+
+- 🚀 Python-Bootcamp
+
+---
+
+⭐ Thank you for visiting my profile!
